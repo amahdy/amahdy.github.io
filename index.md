@@ -46,8 +46,8 @@
 [<img src="https://images.credly.com/size/340x340/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" alt="CDL - Cloud Digital Leader" width="120">](https://www.credly.com/badges/fbaeb1f1-a43f-4dea-85f5-aa3ffcfa31d0)
 [<img src="https://images.credly.com/size/340x340/images/16d3e89c-4af5-47d8-a502-2a93b02c26d4/image.png" alt="PGWA - Professional Google Workspace Administrator" width="120">](https://www.credly.com/badges/ac69cea5-aa05-4878-9578-e4279f0b44f8)
 * [Scrum Master](https://www.scrumalliance.org/members/517410)
-* [Java SE 7 Programmer](https://drive.google.com/file/d/0B7n5Lsz3h1S7SnpnUEFQMGhZUU0/view)
-* [Android Apps](https://drive.google.com/file/d/0B7n5Lsz3h1S7YTQtRldVUHI1cEk/view)
+* [Java SE 7 Programmer](https://drive.google.com/file/d/0B7n5Lsz3h1S7SnpnUEFQMGhZUU0/view?usp=sharing&resourcekey=0-IIS_2GHI-xLSq1AQ_kOrjg)
+* [Android Apps](https://drive.google.com/file/d/0B7n5Lsz3h1S7YTQtRldVUHI1cEk/view?usp=sharing&resourcekey=0-bd5Hmju4cEdgfemnn1wjEA)
 * [Vaadin 24 Developer](https://vaadin.com/learn/certificate/4657338e-3f44-46ea-ad64-05839cccfae6)
 
 ### Competitions:

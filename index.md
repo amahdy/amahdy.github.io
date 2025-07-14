@@ -17,6 +17,8 @@
 
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/brands/square-youtube.svg" alt="Youtube Icon" width="20" height="20"> @amahdy](https://www.youtube.com/@amahdy)
 
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/brands/github.svg" alt="Github Icon" width="20" height="20"> Github](https://github.com/amahdy)
+
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/regular/file-code.svg" alt="Code Sample Icon" width="20" height="20"> Gists](https://gist.github.com/amahdy)
 
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/regular/note-sticky.svg" alt="Web Icon" width="20" height="20"> amahdy.net](https://amahdy.net)

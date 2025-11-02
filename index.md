@@ -1,6 +1,6 @@
 # Technical Trainer, Public Speaker, and Software Veteran
 
-**A.Mahdy** is an experienced **technical trainer** and **public speaker** with over 18 years in the software industry. His extensive background includes roles at **Google**, **Oracle**, **Vaadin**, and three **start-ups**. He has a keen interest in modern technologies like **GenAI**, **PWA**, **offline-first design**, **machine learning**, **security**, and the **cloud stack**. When he's not speaking or traveling, A.Mahdy enjoys playing basketball.
+**A.Mahdy** is an experienced **technical trainer** and **public speaker** with over 18 years in the software industry. His extensive background includes roles at **Paris Cité University**, **Google**, **Oracle**, **Vaadin**, and three **start-ups**. He has a keen interest in modern technologies like **GenAI**, **PWA**, **offline-first design**, **machine learning**, **security**, and the **cloud stack**. When he's not speaking or traveling, A.Mahdy enjoys playing basketball.
 
 * **Fun Fact:** [Volunteered as Field of Play](https://openbadgefactory.com/v1/assertion/b3d2264191401637aa0a55d924c26d83ac9ab834
 ) (FOP) at the **Paris 2024 Olympic & Paralympic Games**.
@@ -34,7 +34,8 @@
 [<img src="https://dzone.com/themes/dz20/images/favicon.png" alt="DZone Icon" width="20" height="20"> amahdy](https://dzone.com/users/2729036/amahdy.html)
 
 ---
-### Books:
+### Publications:
+* Java 25: The tl;dr Version in the [JAVAPRO Java 25 Special Edition](https://javapro.io/wp-content/uploads/2025/10/JAVAPRO_04-2025_Java-25.pdf)
 * Co-Author [97 Things Every Java Programmer Should Know](https://github.com/97-things/97-things-every-programmer-should-know)
 * Technical Reviewer [Python 3 Object-oriented Programming](https://github.com/PacktPublishing/Python-3-Object-Oriented-Programming-Third-Edition)
 
